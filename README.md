@@ -5,6 +5,12 @@ LearningDashboard is an iOS application built with **Swift, SwiftUI, MVVM, Swift
 
 ---
 
+## Demo Video
+
+🎥 [Watch the iOS Technical Assignment Demo](https://github.com/aayush-gandhi-ios/Intellipaat-iOS-Assignment/releases/download/v1.0/Assignment_Demo.MP4)
+
+---
+
 ## Tech Stack
 
 - **Swift 5.9+**
@@ -187,9 +193,3 @@ Run tests in Xcode using `Cmd + U` or via terminal:
 ```bash
 xcodebuild test -project LearningDashboard.xcodeproj -scheme LearningDashboard -destination "platform=iOS Simulator,name=iPhone 16"
 ```
-
----
-
-## Demo Video
-
-🎥 [Watch the iOS Technical Assignment Demo](https://github.com/aayush-gandhi-ios/Intellipaat-iOS-Assignment/releases/download/v1.0/Assignment_Demo.MP4)
