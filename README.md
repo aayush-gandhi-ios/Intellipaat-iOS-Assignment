@@ -136,7 +136,7 @@ An equivalent enterprise implementation on Android maps as follows:
 ### Instructions
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/aayush-gandhi-ios/Intellipaat-iOS-Assignment.git
    cd Intellipaat-iOS-Assignment
    ```
 2. Open `LearningDashboard.xcodeproj` in Xcode.
