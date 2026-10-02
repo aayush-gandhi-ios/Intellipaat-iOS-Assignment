@@ -1,0 +1,24 @@
+# Xcode and OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Xcode Build Products and Derived Data
+build/
+DerivedData/
+.build/
+*.xcresult/
+
+# Xcode User Data and State (keep shared schemes and shared workspace configuration)
+xcuserdata/
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+.swiftpm/xcode/package.xcworkspace/xcuserdata/
+.swiftpm/configuration/
+
+# Temporary and Crash Files
+*.crash
