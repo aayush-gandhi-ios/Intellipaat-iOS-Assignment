@@ -192,4 +192,4 @@ xcodebuild test -project LearningDashboard.xcodeproj -scheme LearningDashboard -
 
 ## Demo Video
 
-Demo video: To be added before submission
+🎥 [Watch the iOS Technical Assignment Demo](https://github.com/aayush-gandhi-ios/Intellipaat-iOS-Assignment/releases/download/v1.0/Assignment_Demo.MP4)
